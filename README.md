@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Swati+Sharan;Final+Year+IT+Student;Web+Developer+%7C+AI+%7C+UI+Designer;)](https://git.io/typing-svg)
+
 # 🪄 About Me:
 
 ### 🔭 I’m currently working on  
@@ -17,7 +19,6 @@ Designing unique frontend themes, structuring full-stack applications, integrati
 
 ### ⚡ Fun fact  
 I love transforming ideas into visually engaging digital stories — and when I’m not coding, you’ll find me singing or playing the keyboard, which often inspires my creative approach to development.
-
 
 
 ## 🌐 Socials:
