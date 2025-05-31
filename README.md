@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Swati+Sharan;Final+Year+IT+Student;Web+Developer+%7C+AI+%7C+UI+Designer;)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Charm&size=54&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Swati+Sharan;Final+Year+IT+Student;Web+Developer+%7C+AI+%7C+UI+Designer;Welcome+to+My+Profile+!" alt="Typing SVG" />
+  </a>
+</p>
+
 
 # 🪄 About Me:
 
